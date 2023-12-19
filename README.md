@@ -2,7 +2,7 @@
 ## Assignment 1: Discovering VMX Features 
 ###### Manikanta Nynala 
 
-## Contribution of Team Members:
+## Contribution of Manikanta Nynala:
 Created the environment using VMware Fusion Pro and built kernel code for IA32_VMX_PROCBASED_CTLS  and IA32_VMX_PROCBASED_CTLS processor-based controls.
 
 Created the environment using VMware Fusion Pro and built kernel code for IA32_VMX_ENTRY_CTLS and IA32_VMX_EXIT_CTLS  processor-based controls.
