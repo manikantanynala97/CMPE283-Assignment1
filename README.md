@@ -40,11 +40,23 @@ Created the environment using VMware Fusion Pro and built kernel code for IA32_V
     > $ sudo apt install gcc
     
 3. Build the file using the Make command.
+   
+4. After building the make file, check if kernel object cmpe283-1.ko is created.
 
 
-5. After building the make file, check if kernel object cmpe283-1.ko is created.
+5. Loaded the kernel code for all the MSR’s (refer cmpe283-1.c).
+6. Executed the below command to run the kernel 
+7. To view the system log, executed the below command.
+   $ dmesg
+
+   ![Screenshot-1](https://github.com/manikantanynala97/CMPE283-Assignment1/assets/90610801/a0999b06-7e2b-4eb5-858a-fa4399c9526b)
+   
+   ![Screenshot-2](https://github.com/manikantanynala97/CMPE283-Assignment1/assets/90610801/6dad7166-0642-43c7-8837-cf3acd0e3b57)
+
+   ![Screenshot-3](https://github.com/manikantanynala97/CMPE283-Assignment1/assets/90610801/d653d6d4-0295-4a89-a584-ad250a675f50)
+
+   ![Screenshot-4](https://github.com/manikantanynala97/CMPE283-Assignment1/assets/90610801/01a2bff9-1b47-4152-ac88-6136814820ff)
 
 
-6. Loaded the kernel code for all the MSR’s (refer cmpe283-1.c).
-7. Executed the below command to run the kernel 
-8. To view the system log, executed the below command.
+
+
